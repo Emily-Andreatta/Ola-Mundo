@@ -1,4 +1,6 @@
 # Olá, Mundo!
-Segundo repositorio 
+Segundo repositório.
 
-Repositório criado a partir da aula do Guanabara
+Repositório criado a partir da aula do Guanabara!
+
+Editando direto do Github
